@@ -80,10 +80,10 @@ else:
 ```
 
 ## Output:
-
-
-
-
+<img width="932" height="222" alt="image" src="https://github.com/user-attachments/assets/a0b5218d-1237-41b1-ac3b-68acf984ecae" />
+<img width="343" height="102" alt="image" src="https://github.com/user-attachments/assets/fd313bc4-b053-4f29-a871-f0b5b91ec51a" />
+<img width="720" height="271" alt="image" src="https://github.com/user-attachments/assets/7f715eae-1bf0-4927-b8c8-e118e2a6e2c4" />
+<img width="139" height="29" alt="image" src="https://github.com/user-attachments/assets/32a41883-85b8-4f24-800c-6ff49c51263b" />
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
